@@ -1,2 +1,1 @@
-<style>p{color:red;}</style>
-*foo*
+DOWN-POINTING SMALL RED TRIANGLE (&#x1F53D;):
